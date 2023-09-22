@@ -2,6 +2,7 @@
 int main()
 {
     std::string str ;
+    std::cout<<"Enter the string ";
     std::getline(std::cin, str);
     std::string::iterator it;
     for(std::string::iterator it = str.begin(); it != str.end(); ++it)
