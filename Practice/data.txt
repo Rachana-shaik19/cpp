@@ -1,0 +1,233 @@
+[11:26:29:627348] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:162 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19  ]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 33 03 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [3...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:1 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:  0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 33 06 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [3...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:15f p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19  ]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 33 00 20 02 - 45 C0 05 C6 - 08 B2 00 00 - FE 11 93 0C [3. .E...........]
+0010: 82 33 14 32                                           [.3.2]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:161 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19  ]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 33 02 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [3...............]
+0010: 00 00 00 00                                           [....]
+
+pkt traversed: 4084, num_matched: 6, num_allocator_matched: 43, num_parent_matched: 6
+
+
+[11:26:34:627729] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:22 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]  :0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 2E 03 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [................]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:24 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]  :0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 2E 05 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [................]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:20 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]  :0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 2E 01 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [................]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:23 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]  :0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 2E 04 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [................]
+0010: 00 00 00 00                                           [....]
+
+pkt traversed: 4573, num_matched: 6, num_allocator_matched: 10, num_parent_matched: 6
+
+
+[11:26:39:627743] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+pkt traversed: 4963, num_matched: 2, num_allocator_matched: 39, num_parent_matched: 2
+
+
+[11:26:44:628096] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:21 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 33 00 20 02 - 45 C0 05 C6 - 38 E5 00 00 - FE 11 62 D9 [3. .E...8.....b.]
+0010: 82 33 14 32                                           [.3.2]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:22 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 33 01 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [3...............]
+0010: 00 00 00 00                                           [....]
+
+pkt traversed: 4995, num_matched: 4, num_allocator_matched: 9, num_parent_matched: 4
+
+
+[11:26:49:628242] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:21 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 31 04 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [1...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:20 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 31 03 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [1...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:22 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 31 05 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [1...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:1f p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 31 02 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [1...............]
+0010: 00 00 00 00                                           [....]
+
+pkt traversed: 3506, num_matched: 6, num_allocator_matched: 9, num_parent_matched: 6
+
+
+[11:26:54:628392] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+pkt traversed: 4995, num_matched: 2, num_allocator_matched: 7, num_parent_matched: 2
+
+
+[11:26:59:628619] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:28 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 2F 04 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [/...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:24 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 9 bytes:
+0000: 2F 00 20 02 - 45 C0 05 C6 - 69                        [/. .E...i]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:26 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 2F 02 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [/...............]
+0010: 00 00 00 00                                           [....]
+
+pkt traversed: 4995, num_matched: 5, num_allocator_matched: 10, num_parent_matched: 5
+
+
+[11:27:04:628759] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+pkt traversed: 4995, num_matched: 1, num_allocator_matched: 6, num_parent_matched: 1
+pcmd
+
+[11:27:09:630047] mssgbuf dump_buffer UnixAggrSocket - * 3 4
+MssgBuf_dump for allocator: UnixAggrSocket, parent: (null), last_toucher: (null), start_index: 3, num_buffers: 4, bytes: 20
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:2b p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 32 07 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [2...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:27 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 32 03 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [2...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:26 p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 32 02 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [2...............]
+0010: 00 00 00 00                                           [....]
+
+allocator: UnixAggrSocket, parent: <no queue>, last_toucher: EncLayer
+MBUF_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0 p[8]:1 p[9]:0 p[10]:ffffffff p[11]:0 p[12]:0 p[13]:2a p[14]:0 p[15]:0 p[16]:0 p[17]:0 p[18]:0 p[19]:0 p[20]:0 p[21]:0
+MBUF_LOCAL_PROPERTIES:
+p[0]:0 p[1]:0 p[2]:0 p[3]:0 p[4]:0 p[5]:0 p[6]:0 p[7]:0
+First 20 bytes:
+0000: 32 06 00 00 - 00 00 00 00 - 00 00 00 00 - 00 00 00 00 [2...............]
+0010: 00 00 00 00                                           [....]
+
+pkt traversed: 3946, num_matched: 6, num_allocator_matched: 10, num_parent_matched: 6
+clear
+
