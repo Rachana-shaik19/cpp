@@ -1,10 +1,3 @@
-#include<iostream>
-using namespace std ;
-int main()
-{
-    for(int i = 0 ; i < 10 ;i++)
-    {
-        cout<< i << endl;
-    }
-    return 0;
-}
+cout << "Weeks = "<< weeks<<endl;
+            // cout <<"remaining_days = "<<remaining_days<<endl;
+            // cout << "Every iterate sum = " <<sum<<endl;
