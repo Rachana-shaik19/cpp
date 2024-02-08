@@ -8,7 +8,6 @@ class Basic{
         {
             std::cout << "Name is "<< name << std::endl;
         }
-
 };
 int main()
 {
