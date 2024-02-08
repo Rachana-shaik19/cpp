@@ -10,6 +10,6 @@ class Shared_ptr
 int main()
 {
     std::shared_ptr<Shared_ptr> ptr(new Shared_ptr());
-
+    
     return 0;
 }
