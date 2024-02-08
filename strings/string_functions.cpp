@@ -25,19 +25,24 @@ int main()
     std::cout<<"size = " <<str1.size()<< std::endl;
     str1.resize(20);
     std::cout<<"Resize = " <<str1.size()<< std::endl;
-    std::cout<< "Replace string = " << str1.replace(20, 30, "dfhf")<< std::endl; // if it is not the range of the string it will raise an exception
+
+    // if it is not the range of the string it will raise an exception
+    std::cout<< "Replace string = " << str1.replace(20, 30, "dfhf")<< std::endl; 
     std::cout<<"charat = " <<str1.at(9)<< std::endl;
     size_t found = str1.find("Shaik");
     if(found != std::string::npos)
     {
         std::cout<<"Found"<< std::endl;
     }
+
+    //insertion
     str1.insert(str1.length(),"shaik");
 
     std::cout<<"insert substring = " <<str1<< std::endl;
     str_5.insert(7, "otherStr", 0, 3);
     std::cout<<"insert with spanning of str_5 = " <<str_5<< std::endl;
     string_function(str1, str_5);
+    str_5.size();
     return 0;
     
 }

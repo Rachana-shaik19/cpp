@@ -1,4 +1,5 @@
 #include<iostream>
+// using namespace std;
 int main()
 {
     std::string str ;
@@ -21,6 +22,9 @@ int main()
     }
     std::cout<< *rit;
     std::cout<<std::endl;
+    str.erase(str[2]);
+    std::cout << "The string after erasing "<< str << std::endl;
+    return 0;
 }
 
 
